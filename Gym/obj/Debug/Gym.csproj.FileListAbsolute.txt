@@ -1,0 +1,295 @@
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\Gym.csprojResolveAssemblyReference.cache
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\Capture.g.cs
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\Custom.g.cs
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\login.g.cs
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\MainWindow.g.cs
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\setttings.g.cs
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\App.g.cs
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\Gym_MarkupCompile.cache
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\Gym_MarkupCompile.lref
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\Gym.exe
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\Gym.pdb
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\AForge.dll
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\AForge.Imaging.dll
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\AForge.Math.dll
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\AForge.Video.dll
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\MySql.Data.dll
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\MySql.Web.dll
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\MySqlBackup.dll
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\WebcamControl.dll
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\Microsoft.Expression.Encoder.dll
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\AForge.xml
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\AForge.Imaging.xml
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\AForge.Math.xml
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\AForge.Video.xml
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\Capture.baml
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\Custom.baml
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\login.baml
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\MainWindow.baml
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\setttings.baml
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\Gym.g.resources
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\Gym.Properties.Resources.resources
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\Gym.csproj.GenerateResource.Cache
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\Gym.exe
+C:\Users\Vaishakh K P\Desktop\Gym\Gym\obj\Debug\Gym.pdb
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\Gym.exe
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\Gym.pdb
+d:\Users\OWNER\Desktop\Gym\Gym\bin\Debug\Gym.exe
+d:\Users\OWNER\Desktop\Gym\Gym\bin\Debug\Gym.pdb
+d:\Users\OWNER\Desktop\Gym\Gym\bin\Debug\Microsoft.Expression.Encoder.dll
+d:\Users\OWNER\Desktop\Gym\Gym\bin\Debug\AForge.xml
+d:\Users\OWNER\Desktop\Gym\Gym\bin\Debug\AForge.Imaging.xml
+d:\Users\OWNER\Desktop\Gym\Gym\bin\Debug\AForge.Math.xml
+d:\Users\OWNER\Desktop\Gym\Gym\bin\Debug\AForge.Video.xml
+d:\Users\OWNER\Desktop\Gym\Gym\bin\Debug\AForge.Video.DirectShow.xml
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\Gym.csprojResolveAssemblyReference.cache
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\Capture.g.cs
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\Custom.g.cs
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\login.g.cs
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\MainWindow.g.cs
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\setttings.g.cs
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\App.g.cs
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\Gym_MarkupCompile.cache
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\Gym_MarkupCompile.lref
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\Capture.baml
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\Custom.baml
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\login.baml
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\MainWindow.baml
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\setttings.baml
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\Gym.g.resources
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\Gym.Properties.Resources.resources
+d:\Users\OWNER\Desktop\Gym\Gym\obj\Debug\Gym.csproj.GenerateResource.Cache
+d:\Users\OWNER\Desktop\Gym\Gym\bin\Debug\Gym.exe.config
+E:\Gym\Gym\bin\Debug\Gym.exe.config
+E:\Gym\Gym\obj\Debug\Gym.exe
+E:\Gym\Gym\obj\Debug\Gym.pdb
+E:\Gym\Gym\bin\Debug\Gym.exe
+E:\Gym\Gym\bin\Debug\Gym.pdb
+E:\Gym\Gym\bin\Debug\WebcamControl.dll
+E:\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Gym\Gym\bin\Debug\Microsoft.Expression.Encoder.dll
+E:\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Gym\Gym\bin\Debug\stdole.dll
+E:\Gym\Gym\bin\Debug\AForge.xml
+E:\Gym\Gym\bin\Debug\AForge.Imaging.xml
+E:\Gym\Gym\bin\Debug\AForge.Math.xml
+E:\Gym\Gym\bin\Debug\AForge.Video.xml
+E:\Gym\Gym\bin\Debug\AForge.Video.DirectShow.xml
+E:\Gym\Gym\obj\Debug\Gym.csprojResolveAssemblyReference.cache
+E:\Gym\Gym\obj\Debug\Capture.g.cs
+E:\Gym\Gym\obj\Debug\Custom.g.cs
+E:\Gym\Gym\obj\Debug\login.g.cs
+E:\Gym\Gym\obj\Debug\MainWindow.g.cs
+E:\Gym\Gym\obj\Debug\setttings.g.cs
+E:\Gym\Gym\obj\Debug\App.g.cs
+E:\Gym\Gym\obj\Debug\Gym_MarkupCompile.cache
+E:\Gym\Gym\obj\Debug\Gym_MarkupCompile.lref
+E:\Gym\Gym\obj\Debug\Capture.baml
+E:\Gym\Gym\obj\Debug\Custom.baml
+E:\Gym\Gym\obj\Debug\login.baml
+E:\Gym\Gym\obj\Debug\MainWindow.baml
+E:\Gym\Gym\obj\Debug\setttings.baml
+E:\Gym\Gym\obj\Debug\Gym.g.resources
+E:\Gym\Gym\obj\Debug\Gym.Properties.Resources.resources
+E:\Gym\Gym\obj\Debug\Gym.csproj.GenerateResource.Cache
+E:\Gym\Gym\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+E:\Gym\Gym\bin\Debug\DevExpress.Data.v15.1.dll
+E:\Gym\Gym\bin\Debug\DevExpress.Mvvm.v15.1.dll
+E:\Gym\Gym\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.Charts.v15.1.dll
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.Core.v15.1.dll
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.Printing.v15.1.dll
+E:\Gym\Gym\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\Gym\Gym\bin\Debug\WPFToolkit.dll
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.dll
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.DocumentViewer.v15.1.Core.dll
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.Docking.v15.1.dll
+E:\Gym\Gym\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.Grid.v15.1.dll
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.Grid.v15.1.Core.dll
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.Layout.v15.1.Core.dll
+E:\Gym\Gym\bin\Debug\DevExpress.Office.v15.1.Core.dll
+E:\Gym\Gym\bin\Debug\DevExpress.Data.v15.1.xml
+E:\Gym\Gym\bin\Debug\DevExpress.Mvvm.v15.1.xml
+E:\Gym\Gym\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.Charts.v15.1.xml
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.Printing.v15.1.xml
+E:\Gym\Gym\bin\Debug\WPFToolkit.pdb
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.xml
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.Docking.v15.1.xml
+E:\Gym\Gym\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.Grid.v15.1.xml
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.Grid.v15.1.Core.xml
+E:\Gym\Gym\bin\Debug\DevExpress.Xpf.Layout.v15.1.Core.xml
+E:\Gym\Gym\bin\Debug\DevExpress.Office.v15.1.Core.xml
+E:\Gym\Gym\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\de\DevExpress.Xpf.Charts.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\es\DevExpress.Xpf.Charts.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\ja\DevExpress.Xpf.Charts.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\ru\DevExpress.Xpf.Charts.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\de\DevExpress.Xpf.Printing.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\es\DevExpress.Xpf.Printing.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\ja\DevExpress.Xpf.Printing.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\ru\DevExpress.Xpf.Printing.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\de\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\es\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\ja\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\ru\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\de\DevExpress.Xpf.Docking.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\es\DevExpress.Xpf.Docking.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\ja\DevExpress.Xpf.Docking.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\ru\DevExpress.Xpf.Docking.v15.1.resources.dll
+E:\Gym\Gym\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\de\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\es\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\ja\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\ru\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+E:\Gym\Gym\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+E:\Gym\Gym\obj\Debug\physic.g.cs
+E:\Gym\Gym\obj\Debug\physic.baml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\Gym.exe.config
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\Gym.exe
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\Gym.pdb
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Xpf.DocumentViewer.v15.1.Core.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Xpf.Docking.v15.1.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\Microsoft.Expression.Encoder.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\stdole.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Xpf.Grid.v15.1.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Xpf.Grid.v15.1.Core.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Xpf.Layout.v15.1.Core.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\AForge.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\AForge.Imaging.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\AForge.Math.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\AForge.Video.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\AForge.Video.DirectShow.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Mvvm.v15.1.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Xpf.Charts.v15.1.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Xpf.Printing.v15.1.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\WPFToolkit.pdb
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Xpf.Docking.v15.1.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Xpf.Grid.v15.1.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Xpf.Grid.v15.1.Core.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Xpf.Layout.v15.1.Core.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\de\DevExpress.Xpf.Charts.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\es\DevExpress.Xpf.Charts.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ja\DevExpress.Xpf.Charts.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ru\DevExpress.Xpf.Charts.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\de\DevExpress.Xpf.Printing.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\es\DevExpress.Xpf.Printing.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ja\DevExpress.Xpf.Printing.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ru\DevExpress.Xpf.Printing.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\de\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\es\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ja\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ru\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\de\DevExpress.Xpf.Docking.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\es\DevExpress.Xpf.Docking.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ja\DevExpress.Xpf.Docking.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ru\DevExpress.Xpf.Docking.v15.1.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\de\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\es\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ja\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ru\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\Gym.csprojAssemblyReference.cache
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\Capture.g.cs
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\Custom.g.cs
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\login.g.cs
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\MainWindow.g.cs
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\physic.g.cs
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\setttings.g.cs
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\App.g.cs
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\Gym_MarkupCompile.cache
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\Gym_MarkupCompile.lref
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\Capture.baml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\Custom.baml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\login.baml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\MainWindow.baml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\physic.baml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\setttings.baml
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\Gym.g.resources
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\Gym.Properties.Resources.resources
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\Gym.csproj.GenerateResource.cache
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\Gym.csproj.CoreCompileInputs.cache
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\Gym.csproj.CopyComplete
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\Gym.exe
+D:\Vaishakh_backup_12-11-2019\New folder\Gym\Gym\obj\Debug\Gym.pdb

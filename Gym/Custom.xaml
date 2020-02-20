@@ -1,0 +1,112 @@
+﻿<Window x:Class="Gym.Custom"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gym"
+        mc:Ignorable="d"
+        Title="Custom" Height="582" Width="588" Icon="Image/RegisterIcon.ico" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TabControl>
+            <TabItem x:Name="tbExpCatgry" Header="TabItem">
+                <Grid Background="White">
+                    <Border BorderBrush="Black" BorderThickness="1" Margin="6,10,6,0" Height="94" VerticalAlignment="Top">
+                        <Grid>
+                            <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="10,25,0,0" TextWrapping="Wrap" Text="Catagory" VerticalAlignment="Top"/>
+                            <TextBox x:Name="txtCtgry" Height="23" Margin="73,25,10,0" TextWrapping="Wrap" BorderThickness="1" VerticalAlignment="Top" BorderBrush="Black"/>
+                            <Button x:Name="btnCtgryAdd" Content="Add" Margin="0,53,10,0" VerticalAlignment="Top" Background="#FF0F9E3D" Foreground="White" Click="btnCtgryAdd_Click" HorizontalAlignment="Right" Width="63"/>
+                        </Grid>
+                    </Border>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tb" Header="TabItem">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="#FFEFEFEF" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid Background="White" Margin="0,0,-2,0">
+                    <Border BorderBrush="Black" BorderThickness="1" Height="505" Margin="10,10,10,0" VerticalAlignment="Top">
+                        <Grid Margin="0,0,-1,0">
+                            <DataGrid x:Name="dgdCstm" ItemsSource="{Binding ''}" Focusable="True" HeadersVisibility="Column" SelectionMode="Extended" SelectionUnit="FullRow" ColumnWidth="*" CanUserResizeRows="False" CanUserAddRows="False" Margin="10,112,10,43" Background="White"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="432,475,0,0" TextWrapping="Wrap" Text="Total:" VerticalAlignment="Top" Width="39" Height="18" FontWeight="Bold" Foreground="#FF165316" FontSize="14"/>
+                            <TextBlock x:Name="tbkExpTotal" HorizontalAlignment="Left" Margin="476,475,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="18" FontWeight="Bold" Foreground="#FF165316" FontSize="14" Width="71"/>
+                            <Grid Background="White" Margin="15,12,11,407">
+                                <DatePicker x:Name="dtpExpncdteFrm" HorizontalAlignment="Left" Margin="48,16,0,0" VerticalAlignment="Top" Width="124"/>
+                                <DatePicker x:Name="dtpExpncdteTo" HorizontalAlignment="Left" Margin="236,16,0,0" VerticalAlignment="Top" Width="124"/>
+                                <Button x:Name="btnCtgryShwDt" Content="Show" HorizontalAlignment="Left" Margin="431,46,0,0" VerticalAlignment="Top" Width="75" Height="24" Click="btnCtgryShwDt_Click"/>
+                                <TextBlock HorizontalAlignment="Left" Margin="10,20,0,0" TextWrapping="Wrap" Text="From" VerticalAlignment="Top" Width="33"/>
+                                <TextBlock HorizontalAlignment="Left" Margin="215,20,0,0" TextWrapping="Wrap" Text="To" VerticalAlignment="Top" Width="16"/>
+                                <ComboBox x:Name="cmbCtgry"  HorizontalAlignment="Left" Margin="48,48,0,0" VerticalAlignment="Top" Width="312"/>
+                            </Grid>
+                        </Grid>
+                    </Border>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tbInc" Header="TabItem" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="54">
+                <Grid Background="White">
+                    <Border BorderBrush="Black" BorderThickness="1" Margin="6,10,6,0" Height="94" VerticalAlignment="Top">
+                        <Grid>
+                            <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="10,25,0,0" TextWrapping="Wrap" Text="Catagory" VerticalAlignment="Top"/>
+                            <TextBox x:Name="txtIncCtgry" Height="23" Margin="73,25,10,0" TextWrapping="Wrap" BorderThickness="1" VerticalAlignment="Top" BorderBrush="Black"/>
+                            <Button x:Name="btnIncCtgryAdd" Content="Add" Margin="0,53,10,0" VerticalAlignment="Top" Background="#FF0F9E3D" Foreground="White" HorizontalAlignment="Right" Width="63" Click="btnIncCtgryAdd_Click"/>
+                        </Grid>
+                    </Border>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tbIncrpt" Header="TabItem" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="54">
+                <Grid Background="#FFE5E5E5">
+                    <Border BorderBrush="Black" BorderThickness="1" Height="505" Margin="10,10,8,0" VerticalAlignment="Top">
+                        <Grid Margin="0,0,-1,0">
+                            <DataGrid x:Name="dgdIncCstm" ItemsSource="{Binding ''}" Focusable="True" HeadersVisibility="Column" SelectionMode="Extended" SelectionUnit="FullRow" ColumnWidth="*" CanUserResizeRows="False" CanUserAddRows="False" Margin="10,112,10,43" Background="White"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="432,475,0,0" TextWrapping="Wrap" Text="Total:" VerticalAlignment="Top" Width="39" Height="18" FontWeight="Bold" Foreground="#FF165316" FontSize="14"/>
+                            <TextBlock x:Name="tbkIncTotal" HorizontalAlignment="Left" Margin="476,475,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="18" FontWeight="Bold" Foreground="#FF165316" FontSize="14" Width="71"/>
+                            <Grid Background="White" Margin="15,12,11,407">
+                                <DatePicker x:Name="dtpIncdteFrm" HorizontalAlignment="Left" Margin="48,16,0,0" VerticalAlignment="Top" Width="124"/>
+                                <DatePicker x:Name="dtpIncdteTo" HorizontalAlignment="Left" Margin="236,16,0,0" VerticalAlignment="Top" Width="124"/>
+                                <Button x:Name="btnIncCtgryShwDt" Content="Show" HorizontalAlignment="Left" Margin="431,46,0,0" VerticalAlignment="Top" Width="75" Height="24" Click="btnIncCtgryShwDt_Click"/>
+                                <TextBlock HorizontalAlignment="Left" Margin="10,20,0,0" TextWrapping="Wrap" Text="From" VerticalAlignment="Top" Width="33"/>
+                                <TextBlock HorizontalAlignment="Left" Margin="215,20,0,0" TextWrapping="Wrap" Text="To" VerticalAlignment="Top" Width="16"/>
+                                <ComboBox x:Name="cmbIncCtgry"  HorizontalAlignment="Left" Margin="48,48,0,0" VerticalAlignment="Top" Width="312"/>
+                            </Grid>
+                        </Grid>
+                    </Border>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tbPhysic" Header="TabItem" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="54">
+                <Grid Background="#FFE5E5E5">
+                    <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="432" Margin="32,38,0,0" VerticalAlignment="Top" Width="506">
+                        <Grid Background="White">
+                            <Grid Height="36" VerticalAlignment="Top" Background="#FF3F3F46">
+                                <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Height="26" Margin="10,10,0,0" TextWrapping="Wrap" Text="Update Physical Info" VerticalAlignment="Top" Width="199" FontSize="16" FontWeight="Bold" Foreground="White"/>
+                            </Grid>
+                            <TextBlock x:Name="textBlock3" HorizontalAlignment="Left" Margin="50,44,0,0" TextWrapping="Wrap" Text="Admission No" VerticalAlignment="Top" Width="91" FontWeight="Bold"/>
+                            <TextBlock x:Name="tbkAdNo" HorizontalAlignment="Left" Margin="224,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" FontWeight="Bold"/>
+                            <TextBlock x:Name="textBlock3_Copy" HorizontalAlignment="Left" Margin="50,77,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="91" FontWeight="Bold"/>
+                            <TextBlock x:Name="tbkPName" HorizontalAlignment="Left" Margin="224,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" FontWeight="Bold"/>
+                            <TextBlock x:Name="textBlock3_Copy1" HorizontalAlignment="Left" Margin="50,149,0,0" TextWrapping="Wrap" Text="Height" VerticalAlignment="Top" Width="91" RenderTransformOrigin="0.505,0.94" FontWeight="Bold"/>
+                            <TextBlock x:Name="textBlock3_Copy2" HorizontalAlignment="Left" Margin="50,182,0,0" TextWrapping="Wrap" Text="Weight" VerticalAlignment="Top" Width="91" FontWeight="Bold"/>
+                            <TextBlock x:Name="textBlock3_Copy3" HorizontalAlignment="Left" Margin="50,217,0,0" TextWrapping="Wrap" Text="Chest" VerticalAlignment="Top" Width="91" FontWeight="Bold"/>
+                            <TextBlock x:Name="textBlock3_Copy4" HorizontalAlignment="Left" Margin="50,252,0,0" TextWrapping="Wrap" Text="Abs" VerticalAlignment="Top" Width="91" FontWeight="Bold"/>
+                            <TextBox x:Name="txtHeight" HorizontalAlignment="Left" Height="23" Margin="224,142,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209" FontWeight="Bold"/>
+                            <TextBox x:Name="txtWeight" HorizontalAlignment="Left" Height="23" Margin="224,175,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209" FontWeight="Bold"/>
+                            <TextBox x:Name="txtChest" HorizontalAlignment="Left" Height="23" Margin="224,210,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209" FontWeight="Bold"/>
+                            <TextBox x:Name="txtAbs" HorizontalAlignment="Left" Height="23" Margin="224,245,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209" FontWeight="Bold"/>
+                            <Button x:Name="btnPSave" Content="Save" HorizontalAlignment="Left" Margin="358,386,0,0" VerticalAlignment="Top" Width="75" FontWeight="Bold" Foreground="White" Background="#FF05570D" Click="btnPSave_Click"/>
+                            <Button x:Name="BtnPCancel" Content="Cancel" HorizontalAlignment="Left" Margin="259,386,0,0" VerticalAlignment="Top" Width="75" FontWeight="Bold" Foreground="White" Background="#FFB92010" Click="BtnPCancel_Click"/>
+                            <DatePicker x:Name="datePhydate" HorizontalAlignment="Left" Margin="224,109,0,0" VerticalAlignment="Top" Width="209"/>
+                            <TextBlock x:Name="textBlock4" HorizontalAlignment="Left" Margin="50,113,0,0" TextWrapping="Wrap" Text="Date" VerticalAlignment="Top" RenderTransformOrigin="0.551,0.5" Width="74" FontWeight="Bold"/>
+                            <TextBlock x:Name="textBlock3_Copy5" HorizontalAlignment="Left" Margin="50,286,0,0" TextWrapping="Wrap" Text="Hamstring" VerticalAlignment="Top" Width="91" FontWeight="Bold"/>
+                            <TextBox x:Name="txtHamstring" HorizontalAlignment="Left" Height="23" Margin="224,279,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209" FontWeight="Bold"/>
+                            <TextBlock x:Name="textBlock3_Copy6" HorizontalAlignment="Left" Margin="50,319,0,0" TextWrapping="Wrap" Text="Biceps" VerticalAlignment="Top" Width="91" FontWeight="Bold"/>
+                            <TextBox x:Name="txtBiceps" HorizontalAlignment="Left" Height="23" Margin="224,312,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209" FontWeight="Bold"/>
+                            <TextBlock x:Name="textBlock3_Copy7" HorizontalAlignment="Left" Margin="50,352,0,0" TextWrapping="Wrap" Text="Gludes" VerticalAlignment="Top" Width="91" FontWeight="Bold"/>
+                            <TextBox x:Name="txtGludes" HorizontalAlignment="Left" Height="23" Margin="224,345,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209" FontWeight="Bold"/>
+                        </Grid>
+                    </Border>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
